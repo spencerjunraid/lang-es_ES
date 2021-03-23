@@ -624,17 +624,17 @@ seconds=segundos
 ago=hace
 
 ; New entries - 2021-03-14
-Cache=
-NFS=
-Please try a different browser=
-SMB=
-Sorry, this feature is not supported by MSIEEdge=Sorry, this feature is not supported by MSIE/Edge
-Unsupported Feature=
-%s weeks ago=
-Back in a flash ⚡️=
-Click a button and your flash is automatically backed up to Unraidnet, enabling easy recovery in the event of a device failure Never self-managehost your flash backups again=Click a button and your flash is automatically backed up to Unraid.net, enabling easy recovery in the event of a device failure. Never self-manage/host your flash backups again!
+Cache=Cache
+NFS=NFS
+Please try a different browser=Pruebe con un navegador diferente
+SMB=SMB
+Sorry, this feature is not supported by MSIEEdge=Lo sentimos, esta función no es compatible con MSIE / Edge
+Unsupported Feature=Función no compatible
+%s weeks ago=%s hace semanas
+Back in a flash ⚡️=De vuelta en un flash ⚡️
+Click a button and your flash is automatically backed up to Unraidnet, enabling easy recovery in the event of a device failure Never self-managehost your flash backups again=Haga clic en un botón y su flash se respaldará automáticamente en Unraid.net, lo que permite una fácil recuperación en caso de falla del dispositivo. Nunca autogestionar / host las copias de seguridad de flash de nuevo!
 
 ; New entries - 2021-03-14
-%s was not signed out of your Unraidnet account=%s was not signed out of your Unraid.net account
-%s was signed out of your Unraidnet account=%s was signed out of your Unraid.net account
-remaining=
+%s was not signed out of your Unraidnet account=%s no se desconectó de su cuenta de Unraid.net
+%s was signed out of your Unraidnet account=%s se desconectó de su cuenta de Unraid.net
+remaining=restante
